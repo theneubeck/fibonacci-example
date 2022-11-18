@@ -1,18 +1,14 @@
 [tool.poetry]
-name = "tdd_blog"
+name = "fibonacci"
 version = "0.1.0"
-description = "A TDD workshop using a blog"
+description = "A TDD example using fibonacci"
 authors = ["theneubeck"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Flask = "^2.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.1"
-
-[tool.poetry.scripts]
-tdd-blog = "tdd_blog.app:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

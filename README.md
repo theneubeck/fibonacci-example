@@ -1,6 +1,6 @@
-# A structure for solving the TDD blog
+# A fibonacci test
 
-This is a python template that can be used to solve the tdd-blog workshop. Instructions: https://github.com/theneubeck/tdd-blog-instructions
+This is a simple setup for demonstrating TDD
 
 ## Rules
 
